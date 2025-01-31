@@ -13,7 +13,7 @@
 #card h2 {
    font-size:3em;
    margin:0;
-   color:#9C2C77;
+   color:#2E7D32;
    text-align: center;
 }
 #card p {
@@ -32,11 +32,11 @@
 .side.one {
    width:320px;
    transform:skew(10deg,20deg);
-   background:linear-gradient(90deg, #FFD1DC, #FFD1DC 40%, #FFC1E3);
+   background:linear-gradient(90deg, #AED581, #AED581 40%, #81C784);
 }
 .side.two {
    transform:skew(10deg,-15deg);
-   background:linear-gradient(-90deg, #FFD1DC, #FFD1DC 40%, #FFC1E3);
+   background:linear-gradient(-90deg, #AED581, #AED581 40%, #81C784);
 }
 
 body {
@@ -45,7 +45,7 @@ body {
    justify-content: center;
    height: 100vh;
    font-family: 'Cavolini', cursive;
-   background-color: #FFE6F2;
+   background-color: #E3F2FD;
    overflow: hidden;
 }
  
