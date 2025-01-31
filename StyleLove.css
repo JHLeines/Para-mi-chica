@@ -32,11 +32,11 @@
 .side.one {
    width:320px;
    transform:skew(10deg,20deg);
-   background:linear-gradient(90deg, #FFD580, #FFD580 40%, #FFB347);
+   background:linear-gradient(90deg, #F8F9FA, #F8F9FA 40%, #EAEAEA);
 }
 .side.two {
    transform:skew(10deg,-15deg);
-   background:linear-gradient(-90deg, #FFD580, #FFD580 40%, #FFB347);
+   background:linear-gradient(-90deg, #F8F9FA, #F8F9FA 40%, #EAEAEA);
 }
 
 body {
@@ -45,7 +45,7 @@ body {
    justify-content: center;
    height: 100vh;
    font-family: 'Cavolini', cursive;
-   background-color: #FFDEE9;
+   background-color: #1E1E2F;
    overflow: hidden;
 }
  
